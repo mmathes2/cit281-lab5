@@ -4,9 +4,10 @@
 ![image](https://github.com/mmathes2/cit281-lab5/assets/134009490/a827f1d1-972a-45de-92f3-1788a2fd7157)
 
 ## Part 3: Create a Node.js and fastify server application with GET and respond with JSON
-npm init -y
-npm install --save fastify
+```npm init -y```
+```npm install --save fastify```
 ## Part 4: Add array of students object
+```
 const students = [
   {
     id: 1,
@@ -24,6 +25,7 @@ const students = [
     first: "First3",
   }
 ];
+```
 
 ## Part 5: Use Postman to test server GET routes
 
